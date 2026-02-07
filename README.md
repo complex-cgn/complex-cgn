@@ -1,12 +1,29 @@
-### Hi there 👋
-I'm a young developer passionate about AI, automation, and building tools that make data meaningful. Always exploring new technologies and pushing the boundaries of modern AI.
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/428a7e8d-6dd3-4b9b-b380-0fbadc63f483"
+    width="768"
+    height="512"
+    alt="CGN banner"
+  />
+</p>
 
-## 🧪 Focus Areas
-- Developing highly accurate modern AI models
-- Designing new and useful AI architectures
-- Linux-based software development
-- Working with databases
-- Building AI agents
 
-## Tech I Use:
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,anaconda,pytorch,fastapi,docker,linux,bash&theme=dark)](https://skillicons.dev)
+<h1 align="center">Hi 👋, I'm CGN</h1>
+<h3 align="center">A passionate backend developer from Türkiye</h3>
+
+<h4 align="center">I am a developer working on ML/DL projects, physical simulations and neural networks
+<h4 align="center">I like to learn new software languages and tools, I research new things whenever I have free time.
+
+<h2 align="center">Languages & Tools:
+  
+***
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=c,cpp,rust,py,anaconda,pytorch,fastapi,docker,linux&theme=dark"
+      alt="My Skills"
+    />
+  </a>
+</p>
+
